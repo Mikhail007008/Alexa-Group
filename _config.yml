@@ -1,0 +1,15 @@
+title: Alexa-Group Все виды отделочных работ
+name: Alexa-Group
+description: Все виды отделочных работ
+
+themecolor: '#202225'
+imagehome: img/logo.jpg
+url: 'http://Alexa-Group.ru'
+baseurl: '/'
+
+exclude: ['node_modules', 'gulpfile.js', 'package.json', 'package-lock.json', 'js/common.js',
+'npm-debug.log', '**/Thumbs.db', 'libs', 'sass', 'DS_Store']
+
+soc:
+ <li><a href="https://instagram.com/alexagroup_remont"><i class="fa fa-instagram"></i></a></li>
+ <li><a href="http://api.whatsapp.com/send?phone=+79251944143"><i class="fa fa-whatsapp"></i></a></li>
